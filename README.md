@@ -1,4 +1,4 @@
-#CodeAlpha Matrix Operations
+# CodeAlpha Matrix Operations
 
 A matrix operations program developed using C programming as part of the CodeAlpha C Programming Internship.
 
